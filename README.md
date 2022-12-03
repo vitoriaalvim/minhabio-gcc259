@@ -20,22 +20,23 @@ Meu nome é Vitória, tenho 23 anos, moro em Lavras/MG, sou graduanda em Sistema
 ### Experiência profissional
 
 Agência UFLA de Inovação em Geotecnologias e Sistemas Inteligentes no Agronegócio – Zetta
-Cargo: Estagiária de Desenvolvimento de Software
-Período: 01/06/2022 até o momento
+<br>Cargo: Estagiária de Desenvolvimento de Software
+<br>Período: 01/06/2022 até o momento
 
 ### Experiência acadêmica:
 
 **Iniciação Científica**
 Cargo: Bolsista Desenvolvimento de Sistemas
-Agência UFLA de Inovação em Geotecnologias e Sistemas Inteligentes no Agronegócio – Zetta 
-Período: 01/12/2021 à 31/05/2022
+<br>Agência UFLA de Inovação em Geotecnologias e Sistemas Inteligentes no Agronegócio – Zetta 
+<br>Período: 01/12/2021 à 31/05/2022
 
 **Projeto de extensão**
 Museologia na prática: potencialização das ações de preservação e comunicação do patrimônio cultural da UFLA
-Cargo: Bolsista 
-Período: 01/03/2021 à 29/11/2021
+<br>Cargo: Bolsista 
+<br>Período: 01/03/2021 à 29/11/2021
 
 **Projeto de extensão**
 Museologia na prática: potencialização das ações de preservação e comunicação do patrimônio cultural da UFLA
-Cargo: Bolsista 
-Período: 01/10/2019 à 31/12/2020
+<br>Cargo: Bolsista 
+<br>Período: 01/10/2019 à 31/12/2020
+
